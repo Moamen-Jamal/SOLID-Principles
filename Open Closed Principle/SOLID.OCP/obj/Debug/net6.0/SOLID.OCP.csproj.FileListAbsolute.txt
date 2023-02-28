@@ -1,0 +1,15 @@
+D:\Objectives Q1 2023\SOLID Principles\Open Closed Principle\SOLID.OCP\bin\Debug\net6.0\SOLID.OCP.exe
+D:\Objectives Q1 2023\SOLID Principles\Open Closed Principle\SOLID.OCP\bin\Debug\net6.0\SOLID.OCP.deps.json
+D:\Objectives Q1 2023\SOLID Principles\Open Closed Principle\SOLID.OCP\bin\Debug\net6.0\SOLID.OCP.runtimeconfig.json
+D:\Objectives Q1 2023\SOLID Principles\Open Closed Principle\SOLID.OCP\bin\Debug\net6.0\SOLID.OCP.dll
+D:\Objectives Q1 2023\SOLID Principles\Open Closed Principle\SOLID.OCP\bin\Debug\net6.0\SOLID.OCP.pdb
+D:\Objectives Q1 2023\SOLID Principles\Open Closed Principle\SOLID.OCP\obj\Debug\net6.0\SOLID.OCP.csproj.AssemblyReference.cache
+D:\Objectives Q1 2023\SOLID Principles\Open Closed Principle\SOLID.OCP\obj\Debug\net6.0\SOLID.OCP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Objectives Q1 2023\SOLID Principles\Open Closed Principle\SOLID.OCP\obj\Debug\net6.0\SOLID.OCP.AssemblyInfoInputs.cache
+D:\Objectives Q1 2023\SOLID Principles\Open Closed Principle\SOLID.OCP\obj\Debug\net6.0\SOLID.OCP.AssemblyInfo.cs
+D:\Objectives Q1 2023\SOLID Principles\Open Closed Principle\SOLID.OCP\obj\Debug\net6.0\SOLID.OCP.csproj.CoreCompileInputs.cache
+D:\Objectives Q1 2023\SOLID Principles\Open Closed Principle\SOLID.OCP\obj\Debug\net6.0\SOLID.OCP.dll
+D:\Objectives Q1 2023\SOLID Principles\Open Closed Principle\SOLID.OCP\obj\Debug\net6.0\refint\SOLID.OCP.dll
+D:\Objectives Q1 2023\SOLID Principles\Open Closed Principle\SOLID.OCP\obj\Debug\net6.0\SOLID.OCP.pdb
+D:\Objectives Q1 2023\SOLID Principles\Open Closed Principle\SOLID.OCP\obj\Debug\net6.0\SOLID.OCP.genruntimeconfig.cache
+D:\Objectives Q1 2023\SOLID Principles\Open Closed Principle\SOLID.OCP\obj\Debug\net6.0\ref\SOLID.OCP.dll

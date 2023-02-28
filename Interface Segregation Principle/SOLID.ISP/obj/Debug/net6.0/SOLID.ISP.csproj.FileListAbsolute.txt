@@ -1,0 +1,15 @@
+D:\Objectives Q1 2023\SOLID Principles\Interface Segregation Principle\SOLID.ISP\bin\Debug\net6.0\SOLID.ISP.exe
+D:\Objectives Q1 2023\SOLID Principles\Interface Segregation Principle\SOLID.ISP\bin\Debug\net6.0\SOLID.ISP.deps.json
+D:\Objectives Q1 2023\SOLID Principles\Interface Segregation Principle\SOLID.ISP\bin\Debug\net6.0\SOLID.ISP.runtimeconfig.json
+D:\Objectives Q1 2023\SOLID Principles\Interface Segregation Principle\SOLID.ISP\bin\Debug\net6.0\SOLID.ISP.dll
+D:\Objectives Q1 2023\SOLID Principles\Interface Segregation Principle\SOLID.ISP\bin\Debug\net6.0\SOLID.ISP.pdb
+D:\Objectives Q1 2023\SOLID Principles\Interface Segregation Principle\SOLID.ISP\obj\Debug\net6.0\SOLID.ISP.csproj.AssemblyReference.cache
+D:\Objectives Q1 2023\SOLID Principles\Interface Segregation Principle\SOLID.ISP\obj\Debug\net6.0\SOLID.ISP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Objectives Q1 2023\SOLID Principles\Interface Segregation Principle\SOLID.ISP\obj\Debug\net6.0\SOLID.ISP.AssemblyInfoInputs.cache
+D:\Objectives Q1 2023\SOLID Principles\Interface Segregation Principle\SOLID.ISP\obj\Debug\net6.0\SOLID.ISP.AssemblyInfo.cs
+D:\Objectives Q1 2023\SOLID Principles\Interface Segregation Principle\SOLID.ISP\obj\Debug\net6.0\SOLID.ISP.csproj.CoreCompileInputs.cache
+D:\Objectives Q1 2023\SOLID Principles\Interface Segregation Principle\SOLID.ISP\obj\Debug\net6.0\SOLID.ISP.dll
+D:\Objectives Q1 2023\SOLID Principles\Interface Segregation Principle\SOLID.ISP\obj\Debug\net6.0\refint\SOLID.ISP.dll
+D:\Objectives Q1 2023\SOLID Principles\Interface Segregation Principle\SOLID.ISP\obj\Debug\net6.0\SOLID.ISP.pdb
+D:\Objectives Q1 2023\SOLID Principles\Interface Segregation Principle\SOLID.ISP\obj\Debug\net6.0\SOLID.ISP.genruntimeconfig.cache
+D:\Objectives Q1 2023\SOLID Principles\Interface Segregation Principle\SOLID.ISP\obj\Debug\net6.0\ref\SOLID.ISP.dll

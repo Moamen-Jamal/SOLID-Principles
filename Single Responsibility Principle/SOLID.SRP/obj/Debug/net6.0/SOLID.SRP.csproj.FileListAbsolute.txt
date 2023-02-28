@@ -1,0 +1,15 @@
+D:\Objectives Q1 2023\SOLID Principles\Single Responsibility Principle\SOLID.SRP\obj\Debug\net6.0\SOLID.SRP.csproj.AssemblyReference.cache
+D:\Objectives Q1 2023\SOLID Principles\Single Responsibility Principle\SOLID.SRP\obj\Debug\net6.0\SOLID.SRP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Objectives Q1 2023\SOLID Principles\Single Responsibility Principle\SOLID.SRP\obj\Debug\net6.0\SOLID.SRP.AssemblyInfoInputs.cache
+D:\Objectives Q1 2023\SOLID Principles\Single Responsibility Principle\SOLID.SRP\obj\Debug\net6.0\SOLID.SRP.AssemblyInfo.cs
+D:\Objectives Q1 2023\SOLID Principles\Single Responsibility Principle\SOLID.SRP\obj\Debug\net6.0\SOLID.SRP.csproj.CoreCompileInputs.cache
+D:\Objectives Q1 2023\SOLID Principles\Single Responsibility Principle\SOLID.SRP\bin\Debug\net6.0\SOLID.SRP.exe
+D:\Objectives Q1 2023\SOLID Principles\Single Responsibility Principle\SOLID.SRP\bin\Debug\net6.0\SOLID.SRP.deps.json
+D:\Objectives Q1 2023\SOLID Principles\Single Responsibility Principle\SOLID.SRP\bin\Debug\net6.0\SOLID.SRP.runtimeconfig.json
+D:\Objectives Q1 2023\SOLID Principles\Single Responsibility Principle\SOLID.SRP\bin\Debug\net6.0\SOLID.SRP.dll
+D:\Objectives Q1 2023\SOLID Principles\Single Responsibility Principle\SOLID.SRP\bin\Debug\net6.0\SOLID.SRP.pdb
+D:\Objectives Q1 2023\SOLID Principles\Single Responsibility Principle\SOLID.SRP\obj\Debug\net6.0\SOLID.SRP.dll
+D:\Objectives Q1 2023\SOLID Principles\Single Responsibility Principle\SOLID.SRP\obj\Debug\net6.0\refint\SOLID.SRP.dll
+D:\Objectives Q1 2023\SOLID Principles\Single Responsibility Principle\SOLID.SRP\obj\Debug\net6.0\SOLID.SRP.pdb
+D:\Objectives Q1 2023\SOLID Principles\Single Responsibility Principle\SOLID.SRP\obj\Debug\net6.0\SOLID.SRP.genruntimeconfig.cache
+D:\Objectives Q1 2023\SOLID Principles\Single Responsibility Principle\SOLID.SRP\obj\Debug\net6.0\ref\SOLID.SRP.dll

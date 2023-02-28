@@ -1,0 +1,15 @@
+D:\Objectives Q1 2023\SOLID Principles\Liskov Substitution Principle\SOLID.LSP\bin\Debug\net6.0\SOLID.LSP.exe
+D:\Objectives Q1 2023\SOLID Principles\Liskov Substitution Principle\SOLID.LSP\bin\Debug\net6.0\SOLID.LSP.deps.json
+D:\Objectives Q1 2023\SOLID Principles\Liskov Substitution Principle\SOLID.LSP\bin\Debug\net6.0\SOLID.LSP.runtimeconfig.json
+D:\Objectives Q1 2023\SOLID Principles\Liskov Substitution Principle\SOLID.LSP\bin\Debug\net6.0\SOLID.LSP.dll
+D:\Objectives Q1 2023\SOLID Principles\Liskov Substitution Principle\SOLID.LSP\bin\Debug\net6.0\SOLID.LSP.pdb
+D:\Objectives Q1 2023\SOLID Principles\Liskov Substitution Principle\SOLID.LSP\obj\Debug\net6.0\SOLID.LSP.csproj.AssemblyReference.cache
+D:\Objectives Q1 2023\SOLID Principles\Liskov Substitution Principle\SOLID.LSP\obj\Debug\net6.0\SOLID.LSP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Objectives Q1 2023\SOLID Principles\Liskov Substitution Principle\SOLID.LSP\obj\Debug\net6.0\SOLID.LSP.AssemblyInfoInputs.cache
+D:\Objectives Q1 2023\SOLID Principles\Liskov Substitution Principle\SOLID.LSP\obj\Debug\net6.0\SOLID.LSP.AssemblyInfo.cs
+D:\Objectives Q1 2023\SOLID Principles\Liskov Substitution Principle\SOLID.LSP\obj\Debug\net6.0\SOLID.LSP.csproj.CoreCompileInputs.cache
+D:\Objectives Q1 2023\SOLID Principles\Liskov Substitution Principle\SOLID.LSP\obj\Debug\net6.0\SOLID.LSP.dll
+D:\Objectives Q1 2023\SOLID Principles\Liskov Substitution Principle\SOLID.LSP\obj\Debug\net6.0\refint\SOLID.LSP.dll
+D:\Objectives Q1 2023\SOLID Principles\Liskov Substitution Principle\SOLID.LSP\obj\Debug\net6.0\SOLID.LSP.pdb
+D:\Objectives Q1 2023\SOLID Principles\Liskov Substitution Principle\SOLID.LSP\obj\Debug\net6.0\SOLID.LSP.genruntimeconfig.cache
+D:\Objectives Q1 2023\SOLID Principles\Liskov Substitution Principle\SOLID.LSP\obj\Debug\net6.0\ref\SOLID.LSP.dll

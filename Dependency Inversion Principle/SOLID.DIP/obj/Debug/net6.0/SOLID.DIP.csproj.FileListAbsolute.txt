@@ -1,0 +1,15 @@
+D:\Objectives Q1 2023\SOLID Principles\Dependency Inversion Principle\SOLID.DIP\bin\Debug\net6.0\SOLID.DIP.exe
+D:\Objectives Q1 2023\SOLID Principles\Dependency Inversion Principle\SOLID.DIP\bin\Debug\net6.0\SOLID.DIP.deps.json
+D:\Objectives Q1 2023\SOLID Principles\Dependency Inversion Principle\SOLID.DIP\bin\Debug\net6.0\SOLID.DIP.runtimeconfig.json
+D:\Objectives Q1 2023\SOLID Principles\Dependency Inversion Principle\SOLID.DIP\bin\Debug\net6.0\SOLID.DIP.dll
+D:\Objectives Q1 2023\SOLID Principles\Dependency Inversion Principle\SOLID.DIP\bin\Debug\net6.0\SOLID.DIP.pdb
+D:\Objectives Q1 2023\SOLID Principles\Dependency Inversion Principle\SOLID.DIP\obj\Debug\net6.0\SOLID.DIP.csproj.AssemblyReference.cache
+D:\Objectives Q1 2023\SOLID Principles\Dependency Inversion Principle\SOLID.DIP\obj\Debug\net6.0\SOLID.DIP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Objectives Q1 2023\SOLID Principles\Dependency Inversion Principle\SOLID.DIP\obj\Debug\net6.0\SOLID.DIP.AssemblyInfoInputs.cache
+D:\Objectives Q1 2023\SOLID Principles\Dependency Inversion Principle\SOLID.DIP\obj\Debug\net6.0\SOLID.DIP.AssemblyInfo.cs
+D:\Objectives Q1 2023\SOLID Principles\Dependency Inversion Principle\SOLID.DIP\obj\Debug\net6.0\SOLID.DIP.csproj.CoreCompileInputs.cache
+D:\Objectives Q1 2023\SOLID Principles\Dependency Inversion Principle\SOLID.DIP\obj\Debug\net6.0\SOLID.DIP.dll
+D:\Objectives Q1 2023\SOLID Principles\Dependency Inversion Principle\SOLID.DIP\obj\Debug\net6.0\refint\SOLID.DIP.dll
+D:\Objectives Q1 2023\SOLID Principles\Dependency Inversion Principle\SOLID.DIP\obj\Debug\net6.0\SOLID.DIP.pdb
+D:\Objectives Q1 2023\SOLID Principles\Dependency Inversion Principle\SOLID.DIP\obj\Debug\net6.0\SOLID.DIP.genruntimeconfig.cache
+D:\Objectives Q1 2023\SOLID Principles\Dependency Inversion Principle\SOLID.DIP\obj\Debug\net6.0\ref\SOLID.DIP.dll
